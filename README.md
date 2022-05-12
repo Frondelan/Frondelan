@@ -1,5 +1,5 @@
 ### Hi there 👋
-### Web/Movil Full Stack Developer 
+### Software Developer & UI/UX enthusiast
 
 <!--
 **Frondelan/Frondelan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
